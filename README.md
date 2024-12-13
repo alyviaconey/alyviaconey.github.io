@@ -1,3 +1,5 @@
+This repository contains code for my portfolio website which can be accessed here: https://alyviaconey.github.io/
+
 # Resume Overview
 ## Alyvia Coney, 4th-Year Computer Science Student
 *Updated December 2024*
